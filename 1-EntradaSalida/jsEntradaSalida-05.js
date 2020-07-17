@@ -10,6 +10,6 @@ function mostrar()
    nombreId = txtIdNombre.value;
    edadId = txtIdEdad.value;
    //muestro un mensaje con los datos ingresadospor id
-   alert("Su nombre es "+ nombreId+ " y tiene"+ edadId + " años");
+   alert("Su nombre es "+ nombreId+ " y tiene "+ edadId + " años");
 }
 
